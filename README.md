@@ -3,7 +3,7 @@
 <img src = 'https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B1240%2C299%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F09%2F15%2FThe-Mandalorian5.jpg' width="300">
 
 This is where I upload side projects by using information, libraries, languages, and datasets available online.
-Projects other than [Mini-projects](##mini-projects) are not committed to this repository. 
+Works other than mini-projects are not committed to this repository. 
 The projects are sorted in the _descending order of dates_, the most recent one being at the top.
 
 - [AI Projects and Researches](###ai-projects-and-researches) - artificial intelligence, machine learning, deep learning projects and researches.
@@ -48,3 +48,6 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 [Correlation between the Types of Posts and User Interest in Hacker News](https://github.com/chan030609/side-projects/blob/master/hackernews-post-analysis/hacker-news-post-analysis.ipynb) 
 - Oct 16, 2020
   - Simple analysis on the relation between the types of uploaded posts and users' interest in Hacker News website.
+
+### License
+[MIT](https://www.mit.edu/~amini/LICENSE.md)
