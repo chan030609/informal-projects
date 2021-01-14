@@ -49,5 +49,7 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 - Oct 16, 2020
   - Simple analysis on the relation between the types of uploaded posts and users' interest in Hacker News website.
 
-### License
+&nbsp;
+
+## License
 [MIT](https://www.mit.edu/~amini/LICENSE.md)
