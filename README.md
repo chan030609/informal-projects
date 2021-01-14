@@ -9,6 +9,8 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 - [AI Projects and Researches](##ai-projects-and-researches) - artificial intelligence, machine learning, deep learning projects and researches.
 - [Mini-projects](##mini-projects) - casual projects and exercises.
 
+&nbsp;
+
 ## Contents
 
 &nbsp;
