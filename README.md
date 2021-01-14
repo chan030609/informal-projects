@@ -10,14 +10,14 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 - [Mini-projects](##Mini-projects) - casual projects and exercises
 
 &nbsp;
-## AI Projects and Researches
+##AI Projects and Researches
 
 [Pneumonia Detection Using ResNet](https://github.com/chan030609/resnet-pneumonia-detection/blob/master/README.md)
 - Jan 4, 2021
   - Detection of pneumonia with an 85% by transferring a ResNet50 model trained with [chest x-ray pictures](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 &nbsp;
-## Mini-projects
+##Mini-projects
 
 [Stock Prediction Using LSTM](https://github.com/chan030609/side-projects/blob/master/goog-stock-prediction/goog-stock-prediction.ipynb)
 - Jan 9, 2021
