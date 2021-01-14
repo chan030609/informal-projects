@@ -3,13 +3,14 @@
 <img src = 'https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B1240%2C299%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F09%2F15%2FThe-Mandalorian5.jpg' width="300">
 
 This is where I upload side projects and using various information, libraries, languages, and datasets available online.
-Works other than [Mini-projects](###Mini-projects) are not included in this repository.
+Works other than [Mini-projects](##mini-projects) are not included in this repository.
 
 The projects are sorted in the _descending order of dates_, the most recent one being at the top.
-- [AI Projects and Researches](##AI Projects and Researches) - artificial intelligence, machine learning, deep learning projects and researches.
-- [Mini-projects](##Mini-projects) - casual projects and exercises
+- [AI Projects and Researches](##ai-projects-and-researches) - artificial intelligence, machine learning, deep learning projects and researches.
+- [Mini-projects](##mini-projects) - casual projects and exercises.
 
 &nbsp;
+
 ##AI Projects and Researches
 
 [Pneumonia Detection Using ResNet](https://github.com/chan030609/resnet-pneumonia-detection/blob/master/README.md)
@@ -17,6 +18,7 @@ The projects are sorted in the _descending order of dates_, the most recent one 
   - Detection of pneumonia with an 85% by transferring a ResNet50 model trained with [chest x-ray pictures](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 &nbsp;
+
 ##Mini-projects
 
 [Stock Prediction Using LSTM](https://github.com/chan030609/side-projects/blob/master/goog-stock-prediction/goog-stock-prediction.ipynb)
