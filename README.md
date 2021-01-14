@@ -3,6 +3,8 @@
 <img src = 'https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B1240%2C299%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F09%2F15%2FThe-Mandalorian5.jpg' width="300">
 _This is a picture of Baby Yoda, my favorite dinosaur._
 
+&nbsp;
+
 This is where I upload side projects by using information, libraries, languages, and datasets available online.
 Works other than [Mini-projects](##mini-projects) are not included in this repository. The projects are sorted in the __descending order of dates__, the most recent one being at the top.
 
