@@ -25,27 +25,27 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 
 ### Mini-projects
 
-[Stock Prediction Using LSTM](https://github.com/chan030609/side-projects/blob/master/goog-stock-prediction/goog-stock-prediction.ipynb)
+[Stock Prediction Using LSTM](https://github.com/chan030609/side-projects/blob/master/goog-stock-prediction/goog-stock-prediction.ipynb) (.ipynb)
 - Jan 9, 2021
   - Prediction of Alphabet's stock trend by creating a long short-term memory (LSTM) deep neural network trained with [stock data](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs).
   
-[Classification of Cats and Dogs](https://github.com/chan030609/side-projects/blob/master/classification-of-cats-and-dogs/classification_of_cats_and_dogs.ipynb)
+[Classification of Cats and Dogs](https://github.com/chan030609/side-projects/blob/master/classification-of-cats-and-dogs/classification_of_cats_and_dogs.ipynb) (.ipynb)
 - Jan 2, 2021
   - Classification of cats and dogs by creating a deep convolutionary neural network (CNN) model trained with [pictures of cats and dogs](https://www.kaggle.com/tongpython/cat-and-dog/tasks). 
   
-[MNIST Fashion Neural Network](https://github.com/chan030609/side-projects/blob/master/mnist-fashion-validation/mnist-fashion-validation.ipynb)
+[MNIST Fashion Neural Network](https://github.com/chan030609/side-projects/blob/master/mnist-fashion-validation/mnist-fashion-validation.ipynb) (.ipynb)
 - Jan 1, 2021
   - Simple machine learning exercise using built-in MNIST Fashion dataset.
 
-[Visualizations of Earnings Based on College Majors](https://github.com/chan030609/side-projects/blob/master/earnings-based-on-majors/earnings-based-on-majors.ipynb)
+[Visualizations of Earnings Based on College Majors](https://github.com/chan030609/side-projects/blob/master/earnings-based-on-majors/earnings-based-on-majors.ipynb) (.ipynb)
 - Dec 29, 2020
   - Various visual representations to analyze people's earnings based on their past college majors.
 
-[Analyzing Used Car Listings on eBay Kleinanzeigen](https://github.com/chan030609/side-projects/blob/master/ebay-car-sales-analysis/ebay-car-sales-analysis.ipynb)
+[Analyzing Used Car Listings on eBay Kleinanzeigen](https://github.com/chan030609/side-projects/blob/master/ebay-car-sales-analysis/ebay-car-sales-analysis.ipynb) (.ipynb)
 - Nov 26, 2020
   - Analysis on a list of used cars available on eBay Kleinanzeigen, a German eBay automobile portal.
 
-[Correlation between the Types of Posts and User Interest in Hacker News](https://github.com/chan030609/side-projects/blob/master/hackernews-post-analysis/hacker-news-post-analysis.ipynb) 
+[Correlation between the Types of Posts and User Interest in Hacker News](https://github.com/chan030609/side-projects/blob/master/hackernews-post-analysis/hacker-news-post-analysis.ipynb) (.ipynb)
 - Oct 16, 2020
   - Simple analysis on the relation between the types of uploaded posts and users' interest in Hacker News website.
 
