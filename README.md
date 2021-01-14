@@ -9,9 +9,11 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 - [AI Projects and Researches](##ai-projects-and-researches) - artificial intelligence, machine learning, deep learning projects and researches.
 - [Mini-projects](##mini-projects) - casual projects and exercises.
 
+## Contents
+
 &nbsp;
 
-## AI Projects and Researches
+### AI Projects and Researches
 
 [Pneumonia Detection Using ResNet](https://github.com/chan030609/resnet-pneumonia-detection/blob/master/README.md)
 - Jan 4, 2021
@@ -19,7 +21,7 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 
 &nbsp;
 
-## Mini-projects
+### Mini-projects
 
 [Stock Prediction Using LSTM](https://github.com/chan030609/side-projects/blob/master/goog-stock-prediction/goog-stock-prediction.ipynb)
 - Jan 9, 2021
