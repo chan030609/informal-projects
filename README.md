@@ -12,8 +12,6 @@ Works other than [Mini-projects](##mini-projects) are not included in this repos
 
 ## Contents
 
-&nbsp;
-
 ### AI Projects and Researches
 
 [Pneumonia Detection Using ResNet](https://github.com/chan030609/resnet-pneumonia-detection/blob/master/README.md)
