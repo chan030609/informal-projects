@@ -19,7 +19,7 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 
 [Pneumonia Detection Using ResNet](https://github.com/chan030609/resnet-pneumonia-detection/blob/master/README.md)
 - Jan 4, 2021
-  - Detection of pneumonia with an 85% by transferring a ResNet50 model trained with [chest x-ray pictures](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+  - Detection of pneumonia with an 85% by transferring a ResNet50 deep convolutionary neural network (CNN) trained with [chest x-ray pictures](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 &nbsp;
 
@@ -27,11 +27,11 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 
 [Stock Prediction Using LSTM](https://github.com/chan030609/side-projects/blob/master/goog-stock-prediction/goog-stock-prediction.ipynb)
 - Jan 9, 2021
-  - Prediction of Alphabet's stock trend by creating a long short-term memory (LSTM) model trained with [stock data](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs).
+  - Prediction of Alphabet's stock trend by creating a long short-term memory (LSTM) deep neural network trained with [stock data](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs).
   
 [Classification of Cats and Dogs](https://github.com/chan030609/side-projects/blob/master/classification-of-cats-and-dogs/classification_of_cats_and_dogs.ipynb)
 - Jan 2, 2021
-  - Classification of cats and dogs by creating a convolutionary neural network (CNN) model trained with [pictures of cats and dogs](https://www.kaggle.com/tongpython/cat-and-dog/tasks). 
+  - Classification of cats and dogs by creating a deep convolutionary neural network (CNN) model trained with [pictures of cats and dogs](https://www.kaggle.com/tongpython/cat-and-dog/tasks). 
   
 [MNIST Fashion Neural Network](https://github.com/chan030609/side-projects/blob/master/mnist-fashion-validation/mnist-fashion-validation.ipynb)
 - Jan 1, 2021
