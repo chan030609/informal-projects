@@ -6,8 +6,8 @@ This is where I upload side projects by using information, libraries, languages,
 Works other than mini-projects are not committed to this repository. 
 The projects are sorted in the _descending order of dates_, the most recent one being at the top.
 
-- [AI Projects and Researches](###ai-projects-and-researches) - artificial intelligence, machine learning, deep learning projects and researches.
-- [Mini-projects](###mini-projects) - casual projects and exercises.
+- [AI Projects and Researches](#ai-projects-and-researches) - artificial intelligence, machine learning, deep learning projects and researches.
+- [Mini-projects](#mini-projects) - casual projects and exercises.
 
 &nbsp;
 
