@@ -6,8 +6,8 @@ This is where I upload side projects by using information, libraries, languages,
 The projects are sorted in the _descending order of dates_, the most recent one being at the top.
 Click a project title to open the project.
 
-- [AI Projects and Researches](#ai-projects-and-researches) - artificial intelligence, machine learning, deep learning projects and researches.
-- [Mini-projects](#mini-projects) - casual projects and exercises.
+- [AI Research Projects](#ai-research-projects) - artificial intelligence, machine learning, deep learning, etc.
+- [Mini-Projects](#mini-projects) - casual projects and exercises.
 
 &nbsp;
 
