@@ -7,7 +7,7 @@ The projects are sorted in the _descending order of dates_, the most recent one 
 Click a project title to open the project.
 
 - [AI Research Projects](#ai-research-projects) - artificial intelligence, machine learning, deep learning, etc.
-- [Other Projects](#other-projects) - casual projects and exercises.
+- [Others](#others) - casual projects and exercises.
 
 &nbsp;
 
@@ -31,7 +31,7 @@ Click a project title to open the project.
 
 &nbsp;
 
-### Other Projects
+### Others
   
 [Classification of Cats and Dogs](https://github.com/chan030609/side-projects/blob/master/classification-of-cats-and-dogs/classification_of_cats_and_dogs.ipynb)
 - Jan 2, 2021
