@@ -17,21 +17,24 @@ Click a project title to open the project.
 
 ### AI Research Projects
 
+[Twitter Sentiment Analysis] (https://github.com/chan030609/twitter-sentiment-analysis)
+- Mar 19. 2021
+  - Comparing the performance of BERT with other traditional baseline models through the sentiment analysis of tweets
+
 [Pneumonia Detection in X-ray Images](https://github.com/chan030609/resnet-pneumonia-detection/blob/master/README.md)
 - Jan 9, 2021
-  - Detection of pneumonia with an 85% by transferring a ResNet50 deep convolutionary neural network (CNN) trained with [chest x-ray pictures](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+  - Detection of pneumonia with an 85% by transferring a ResNet50 deep convolutionary neural network (CNN) trained with chest x-ray pictures
 
 [GOOG Stock Prediction](https://github.com/chan030609/side-projects/blob/master/goog-stock-prediction/goog-stock-prediction.ipynb)
 - Jan 4, 2021
-  - Prediction of Alphabet's stock trend by creating a long short-term memory (LSTM) deep neural network trained with [stock data](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs).
-
+  - Prediction of Alphabet's stock trend by creating a long short-term memory (LSTM) deep neural network
 &nbsp;
 
 ### Other Projects
   
 [Classification of Cats and Dogs](https://github.com/chan030609/side-projects/blob/master/classification-of-cats-and-dogs/classification_of_cats_and_dogs.ipynb)
 - Jan 2, 2021
-  - Classification of cats and dogs by creating a deep convolutionary neural network (CNN) model trained with [pictures of cats and dogs](https://www.kaggle.com/tongpython/cat-and-dog/tasks). 
+  - Classification of cats and dogs by creating a deep convolutionary neural network (CNN) model trained with pictures of cats and dogs
   
 [MNIST Fashion Classification](https://github.com/chan030609/side-projects/blob/master/mnist-fashion-validation/mnist-fashion-validation.ipynb)
 - Jan 1, 2021
