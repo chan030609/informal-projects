@@ -17,7 +17,7 @@ Click a project title to open the project.
 
 ### AI Research Projects
 
-[Twitter Sentiment Analysis] (https://github.com/chan030609/twitter-sentiment-analysis)
+[Twitter Sentiment Analysis](https://github.com/chan030609/twitter-sentiment-analysis)
 - Mar 19. 2021
   - Comparing the performance of BERT with other traditional baseline models through the sentiment analysis of tweets
 
@@ -28,6 +28,7 @@ Click a project title to open the project.
 [GOOG Stock Prediction](https://github.com/chan030609/side-projects/blob/master/goog-stock-prediction/goog-stock-prediction.ipynb)
 - Jan 4, 2021
   - Prediction of Alphabet's stock trend by creating a long short-term memory (LSTM) deep neural network
+
 &nbsp;
 
 ### Other Projects
